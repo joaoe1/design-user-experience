@@ -1,4 +1,4 @@
-# Repositório de Design para a Experiência do Usuário
+# Repositório de UX Design
 
 Olá!  Bem-vindo ao meu repositório de UXD. Aqui você encontrará projetos e demonstrações de habilidades aplicadas à área.
 
